@@ -8,7 +8,7 @@
     font-weight: 400;
     src:
         local('asciid'),
-        url('https://refact0r.github.io/system24/assets/asciid.woff') format('woff');
+        url('https://loyness.github.io/luna-system24/assets/asciid.woff') format('woff');
 }
 
 body {
@@ -40,7 +40,7 @@ body {
     --window-control-size: 14px; /* size of custom window controls */
 
     /* dms button options */
-    --custom-dms-icon: off; /* off: use default discord icon, hide: remove icon entirely, custom: use custom icon */
+    --custom-dms-icon: custom; /* off: use default discord icon, hide: remove icon entirely, custom: use custom icon */
     --dms-icon-svg-url: url('https://refact0r.github.io/midnight-discord/assets/Font_Awesome_5_solid_moon.svg'); /* icon svg url. MUST BE A SVG. */
     --dms-icon-svg-size: 90%; /* size of the svg (css mask-size property) */
     --dms-icon-color-before: var(--icon-subtle); /* normal icon color */
