@@ -19,6 +19,13 @@ a customizable, tui-style discord theme. inspired by [spicetify text theme](http
 
 add `https://loyness.github.io/luna-system24/build/luna-system24.css` to your theme import links. you will need to copy the theme variables to your quickcss in order to customize the theme.
 
+### edit QuickCSS
+
+just add these in your quickcss:
+```css
+@import url('https://loyness.github.io/luna-system24/build/luna-system24.css');
+```
+
 ## flavors
 
 customized variants of the theme.
