@@ -56,4 +56,4 @@ DEV_OUTPUT_PATH=C:\Users\USERNAME\AppData\Roaming\Vencord\themes\system24-dev.th
 
 [spicetify text theme](https://github.com/spicetify/spicetify-themes/tree/master/text) for primary design inspiration.
 
-thanks to all the [contributors](https://github.com/refact0r/system24/graphs/contributors)!
+thanks to [refact0r](https://github.com/refact0r) and all the [contributors](https://github.com/refact0r/system24/graphs/contributors) from his original repo!
