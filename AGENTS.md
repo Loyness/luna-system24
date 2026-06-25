@@ -5,6 +5,7 @@ A TUI-style CSS theme for Discord built on top of [midnight](https://github.com/
 ## Layout
 
 - `src/*.css` — System24 source, layered after midnight:
+  - `animations.css` — transition tokens.
   - `main.css` — midnight import, fonts, public defaults, palette, and the small set of general System24 overrides.
   - `ascii.css` — ASCII channel titles and loading screens.
   - `colors.css` — System24-specific status-color aliases. Most shared Discord color mapping lives upstream in midnight.
